@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568202028804",
+    "project_id": "apptarefas-apresetar",
+    "storage_bucket": "apptarefas-apresetar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568202028804:android:e0c27d9581548619bd5251",
+        "android_client_info": {
+          "package_name": "com.example.app_tarefas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATfDNVni0UychD00nmwoqQ9vUIPmoNTYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "891381154108",
+    "project_id": "apptarefas-aovivo",
+    "storage_bucket": "apptarefas-aovivo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891381154108:android:bb7478322b79bfaa589e39",
+        "android_client_info": {
+          "package_name": "com.example.app_tarefa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw6YT9XQHpaaIm3HV4UFnHVKAmIY4bDYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891381154108:android:29214e5889f28be8589e39",
+        "android_client_info": {
+          "package_name": "com.example.app_tarefas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw6YT9XQHpaaIm3HV4UFnHVKAmIY4bDYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
